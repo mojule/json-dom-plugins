@@ -1,6 +1,6 @@
 {
   "name": "@mojule/json-dom-plugins",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Plugins for @mojule/json-tree that let you treat JSON like a DOM",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,6 @@
     "mocha": "^3.2.0"
   },
   "dependencies": {
-    "@mojule/dom-plugins": "^0.1.9"
+    "@mojule/dom-plugins": "^0.1.10"
   }
 }
